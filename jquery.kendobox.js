@@ -6,7 +6,6 @@
  * https://github.com/reggieqiao/kendobox
  */
 
- 
 // 判断是否有父页面，有iframe时的情况
 _p = parent || this; 
 _$ = parent.$ || $;
